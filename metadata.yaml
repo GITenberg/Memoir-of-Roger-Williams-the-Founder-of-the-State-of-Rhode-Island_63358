@@ -1,5 +1,8 @@
 _repo: Memoir-of-Roger-Williams-the-Founder-of-the-State-of-Rhode-Island_63358
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63358-h/images/cover.jpg
 creator:
   author:
     agent_name: Knowles, James D. (James Davis)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '52398'
     url: http://www.gutenberg.org/2009/agents/52398
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63358#Memoir-of-Roger-Williams-the-Founder-of-the-State-of-Rhode-Island
 gutenberg_issued: '2020-10-01'
 gutenberg_type: Text
 identifiers:
