@@ -1,0 +1,27 @@
+_repo: Memoir-of-Roger-Williams-the-Founder-of-the-State-of-Rhode-Island_63358
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knowles, James D. (James Davis)
+    alias: Knowles, James Davis
+    birthdate: 1798
+    deathdate: 1838
+    gutenberg_agent_id: '52398'
+    url: http://www.gutenberg.org/2009/agents/52398
+description: ''
+gutenberg_issued: '2020-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63358'
+  lccn: '13033610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Rhode Island -- History -- Colonial period, ca. 1600-1775'
+- !lcsh 'Williams, Roger, 1604?-1683'
+- GITenberg
+title: Memoir of Roger Williams, the Founder of the State of Rhode-Island
+url: http://www.gutenberg.org/ebooks/63358
